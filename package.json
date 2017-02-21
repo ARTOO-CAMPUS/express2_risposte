@@ -1,0 +1,15 @@
+{
+  "name": "filestatici",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "paolo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1",
+    "path": "^0.12.7"
+  }
+}
